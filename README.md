@@ -1,0 +1,2 @@
+# DimensionLampLib
+Minecraft周边互动玩具次元矿灯核心库
